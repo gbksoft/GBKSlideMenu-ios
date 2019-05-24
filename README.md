@@ -2,7 +2,7 @@
 
 “GBKSlideMenu” - easy and simple way for adding and managing a slide-menu in your app (developed using `Swift`)
 
-![](img/GBKSlideMenu_video.mp4)
+![](img/example.gif)
 
 ## Features
 
