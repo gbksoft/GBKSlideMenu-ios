@@ -88,3 +88,6 @@ Steps to open a slide-menu by means of `Pan Gesture`:
  - Import `GBKSlideMenu` framework into `UIViewController`, which will display a menu.
  - Install parent class `GBKSlidePresenterController`
  - Initialize `initGestureSlideController` property.
+
+# Let us know
+We'd be very happy if you sent links to your projects where you use our component. Just send us email to [github@gbksoft.com](mailto:github@gbksoft.com)
