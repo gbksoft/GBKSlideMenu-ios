@@ -31,7 +31,7 @@ platform :ios, '9.0'
 use_frameworks!
 
 target '<Your Target Name>' do
-    pod 'GBKSlideMenu', :git => 'git@github.com/gbksoft/GBKSlideMenu-ios'
+    pod ‘GBKSlideMenu’, :git => 'git@github.com:gbksoft/GBKSlideMenu-ios'
 end
 ```
 
