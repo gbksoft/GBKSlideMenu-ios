@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name                  = "GBKSlideMenu"
-  spec.version               = "0.4"
+  spec.version               = "0.5"
   spec.summary               = "Easy and simple way for adding and managing a slide-menu in your app"
   spec.license               = 'MIT'
   spec.homepage              = 'https://gbksoft.com/'
