@@ -1,6 +1,6 @@
 # GBKSlideMenu
 
-â€œGBKSlideMenuâ€ - easy and simple way for adding and managing a slide-menu in your app (developed using `Swift`)
+"GBKSlideMenu" - easy and simple way for adding and managing a slide-menu in your app (developed using `Swift`)
 
 ![](img/example.gif)
 
@@ -31,7 +31,7 @@ platform :ios, '9.0'
 use_frameworks!
 
 target '<Your Target Name>' do
-    pod ‘GBKSlideMenu’, :git => 'git@github.com:gbksoft/GBKSlideMenu-ios'
+    pod 'GBKSlideMenu', :git => 'git@github.com:gbksoft/GBKSlideMenu-ios'
 end
 ```
 
